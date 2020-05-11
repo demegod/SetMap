@@ -1,0 +1,12 @@
+I joined the computing sciences faculty at Elon University in 2008 and currently hold the position of Associate Professor.
+ I am currently engaged in research on undergraduate visualization education. 
+ In my past research I have addressed issues of human-computer interaction related to multi-display systems and password systems. 
+ I welcome the opportunity to conduct research with undergraduate students and 
+ encourage students to contact me to discuss research projects and other opportunities.
+  While my focus is on human-computer interaction, I am willing to advise a very wide variety of research endeavors.
+
+Prior to my time at Elon, I held the position of Assistant Professor of Computer Science at Bowling Green State University.
+ I attended Georgia Institute of Technology as a member of the Information Interfaces Lab, where I received a Ph.D. in computer science in 2006.
+  I completed my undergraduate work at Baldwin-Wallace University, where I received a B.S. in computer science and mathematics in 2000.
+   I have also held a number of summer internship and scholarship positions, including 
+   work at Microsoft Research, Miami University, and Interactive Payer Network, now operating as Emdeon.
